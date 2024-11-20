@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: UNDER CONSTRUCTION - NO I'M NOT EINSTEIN! # the website title (if blank, full name will be used instead)
+title: Dr Timothy Andrews # the website title (if blank, full name will be used instead)
 first_name: Tim
 middle_name:
 last_name: Andrews
@@ -40,7 +40,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
