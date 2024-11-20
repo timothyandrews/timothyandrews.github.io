@@ -5,7 +5,7 @@ repo_description_lines_max: 2
 
 github_repos:
   - timothyandrews/ML-CNN
-  - timothyandrews/HadGEM3-ERF-Timeserie
+  - timothyandrews/HadGEM3-ERF-Timeseries
   - timothyandrews/cfmip2023
   - timothyandrews/amip-hadSST-piForcing
   - timothyandrews/4xCO2-IRF
@@ -13,7 +13,3 @@ github_repos:
   - timothyandrews/HadGEM3-RFMIP-Tier2
   - timothyandrews/historical-radiative-forcing 
   - timothyandrews/abrupt-2xCO2
-
-
-
-
