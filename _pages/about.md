@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist | <a href='https://www.metoffice.gov.uk/research/climate'>Met Office Hadley Centre, Exeter, UK.</a>
+subtitle: Research Scientist | <a href='https://www.metoffice.gov.uk/research/climate'>Met Office Hadley Centre, Exeter, UK.</a> <br> Associate Professor | <a href='https://environment.leeds.ac.uk/see'>University of Leeds, UK.</a>
 
 profile:
   align: right
@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a research scientist at the Met Office Hadley Centre working on the physics of climate change. I am mainly interested in the Earth’s energy budget and how it can be used to understand and predict climate change.  My research focuses on:
+I am a research scientist at the Met Office Hadley Centre and Associate Professor at the University of Leeds working on the physics of climate change. I am mainly interested in the Earth’s energy budget and how it can be used to understand and predict climate change.  My research focuses on:
 
 * Radiative forcing, climate feedbacks & heat uptake
 * Methods and concepts relating to climate sensitivity and transient climate change
@@ -25,4 +25,4 @@ I am a research scientist at the Met Office Hadley Centre working on the physics
 
 I use observations, theory and a hierarchy of climate modelling to investigate these issues.
 
-I work in the Climate Sensitivity and Feedbacks team, which forms part of the Climate Processes and Projections group in the Met Office Hadley Centre.
+I work in the Climate Sensitivity and Feedbacks team, which forms part of the Climate Processes and Projections group in the Met Office Hadley Centre. At the University of Leeds I work in the School of Earth and Environment.
